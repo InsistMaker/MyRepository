@@ -7,3 +7,12 @@ D:\Test\WebApplication1\BLL\bin\Debug\Models.pdb
 D:\Test\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\Test\WebApplication1\BLL\obj\Debug\BLL.dll
 D:\Test\WebApplication1\BLL\obj\Debug\BLL.pdb
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\BLL.dll
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\BLL.pdb
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\DAL.dll
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\Models.dll
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\DAL.pdb
+D:\Test\MyRepository\WebApplication1\BLL\bin\Debug\Models.pdb
+D:\Test\MyRepository\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Test\MyRepository\WebApplication1\BLL\obj\Debug\BLL.dll
+D:\Test\MyRepository\WebApplication1\BLL\obj\Debug\BLL.pdb

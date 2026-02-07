@@ -3,3 +3,8 @@ D:\Test\WebApplication1\Models\bin\Debug\Models.pdb
 D:\Test\WebApplication1\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 D:\Test\WebApplication1\Models\obj\Debug\Models.dll
 D:\Test\WebApplication1\Models\obj\Debug\Models.pdb
+D:\Test\MyRepository\WebApplication1\Models\bin\Debug\Models.dll
+D:\Test\MyRepository\WebApplication1\Models\bin\Debug\Models.pdb
+D:\Test\MyRepository\WebApplication1\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Test\MyRepository\WebApplication1\Models\obj\Debug\Models.dll
+D:\Test\MyRepository\WebApplication1\Models\obj\Debug\Models.pdb
