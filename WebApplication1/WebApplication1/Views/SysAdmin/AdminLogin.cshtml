@@ -12,11 +12,12 @@
 </head>
 <body>
     <div> 
-        <form action="" method="post">
+        <form action="/SysAdmin/AdminLogin" method="post">
             用户名：<input type="text" name="loginId"/>
             密码：<input type="text" name="loginpwd" />
             <input type="submit" value="登录"/>
         </form>
+        @{ =ViewData["info"]}
     </div>
 </body>
 </html>
